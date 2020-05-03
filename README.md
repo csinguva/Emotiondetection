@@ -11,5 +11,12 @@ Warnings:
 Source codelinks:
 
 https://colab.research.google.com/gist/jcheong0428/c16146b386ea60fab888b56e8e5ee747/openface_shared.ipynb#scrollTo=_KFhlY8AV45b
-
 https://gist.github.com/jcheong0428/c16146b386ea60fab888b56e8e5ee747
+
+
+Research articles:
+ - https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3247286
+ - https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3311894
+ - https://arxiv.org/ftp/arxiv/papers/1908/1908.01024.pdf
+ 
+
